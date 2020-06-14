@@ -12,4 +12,4 @@ Webpack (imports/exports)
      Minified Code (уменьшаем код, чтобы приложение быстрее грузилось)
 
 Git - разбираемся с маком, разбираемся с конфликтами и настройками!!!
-Need to start as soon as possible!!!
+Need to start as soon as possible.
