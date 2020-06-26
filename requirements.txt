@@ -4,9 +4,9 @@ Webpack (imports/exports)
   Eslint.
   2 modes:
      - Dev
-          * Dev Server(перезапуск сервера и странички на изменение кода),
-          * SoursMaps(нужен для чтения Scss, разделения кода на модули),
-          * Eslint,
+          * Dev Server(перезапуск сервера и странички на изменение кода)
+          * SoursMaps(нужен для чтения Scss, разделения кода на модули)
+          * Eslint
           * Not Minified JS & Css, (важно понимать, как код выглядит)
      - Prod
      Minified Code (уменьшаем код, чтобы приложение быстрее грузилось)
