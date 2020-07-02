@@ -1,7 +1,7 @@
 Webpack (imports/exports)
-  Babel
-  Scss
-  Eslint
+  Babel.
+  Scss.
+  Eslint.
   2 modes:
      - Dev
           * Dev Server(перезапуск сервера и странички на изменение кода)
